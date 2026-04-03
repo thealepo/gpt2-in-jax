@@ -1,1 +1,1 @@
-# **Mini Image Generator**
+# **Mini-Latent Diffusion Implementation in JAX**
